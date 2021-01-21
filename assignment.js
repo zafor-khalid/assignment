@@ -1,3 +1,4 @@
+//SITE: https://github.com/zafor-khalid/assignment
 
 // FUNCTION kilometerToMeter STRARTS HERE
 function kilometerToMeter(input) {
